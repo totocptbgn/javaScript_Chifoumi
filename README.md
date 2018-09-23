@@ -8,7 +8,7 @@ The game is made in French but can be used in english with the 'EN' button at th
 Enjoy !
 
 ## Link :
-The game is available here : http://epitriche.fr/totosprojects/chifoumi/
+The game is available [here](http://epitriche.fr/totosprojects/chifoumi/).
 
 ## Creator :
 I entirely made the CSS / HTML / JavaScript code. Use it as you wish there is no license !
